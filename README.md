@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @jweslee
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in securing my account
+- 🌱 I’m currently learning security
+- 💞️ I’m looking to collaborate on j.weslee11@gmail.com 
+- 📫 How to reach me gmail
+  
 
 <!---
 jweslee/jweslee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
